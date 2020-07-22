@@ -1,0 +1,75 @@
+[3] 15:12:28: Log started for 'E:\ToscaWorkspace\NetmedsProject\Tosca_Netmeds\NetmedsProject.tws'
+[3] 15:12:28: Log level: 4
+[3] 15:12:28: Release: 13.2.0.32638
+[3] 15:12:29: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 15:12:31: No service discovery configured.
+[3] 15:12:31:  + DistributedExecutionAddIn: DistributedExecutionAddIn 13.2.0.446 (32638)
+[3] 15:12:31:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 13.2.0.446 (32900)
+[3] 15:12:31:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 13.2.0.446 (32900)
+[3] 15:12:31:  + IntegrationManagementAddIn: IntegrationManagementAddIn 13.2.0.446 (32638)
+    - : QTestIntegration 13.2.1.18 (18)
+    + : SAPSolutionManagerIntegration 13.2.1.18 (18)
+[3] 15:12:31: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 15:12:31: Searcher found 0 results in 96.0006 ms
+[3] 15:12:31:  + OptIntAddIn: OptIntAddIn 13.2.0.446 (32900)
+[3] 15:12:31:  + QTestIntegrationAddIn: QTestIntegrationAddIn 13.2.0.446 (32999)
+[3] 15:12:31:  + RemoteControl: RemoteControlAddIn 13.2.0.446 (32900)
+[3] 15:12:31:  + Reporting: ReportingAddIn 13.2.0.446 (32638)
+[3] 15:12:31:  + ReportingUI: ReportingUIAddIn 13.2.0.446 (32900)
+[3] 15:12:31:  + RequirementsManagementAddIn: RequirementsManagement 13.2.0.446 (32638)
+[3] 15:12:31:  + RequirementsManagementUIAddIn: RequirementsManagementUI 13.2.0.446 (32900)
+[3] 15:12:31:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 13.2.0.446 (32900)
+[3] 15:12:31:  + TestCaseDesign: TestCaseDesign 13.2.0.446 (32891)
+[3] 15:12:31:  + ControlFlowDiagram: TestCaseVisualizationAddIn 13.2.0.446 (32900)
+[3] 15:12:31:  + XDefinitions: XDefinitions 13.2.0.446 (32648)
+[3] 15:12:31:  + XDefinitionsUI: XDefinitionsUI 13.2.0.446 (32900)
+[3] 15:12:31: Workspace.Login for 'Admin'succeeded
+[3] 15:12:31: TCShell started (13.2.0.32638)
+[4] 15:12:31: Current = 'DemoProject'
+[3] 15:12:32: Command: //navigate to an ExecutionList
+ jumptonode
+[4] 15:12:32: Current = 'NetmedsExecutionLists'
+[3] 15:12:32: Command: /Execution/NetmedsExecutionLists//check out Execution List
+ task
+[3] 15:12:32: Command: checkout//reset Actual log
+ task
+[3] 15:12:32: Command: "clear log"//start Execution list
+ task
+[3] 15:12:32: Task 'Run' started!
+[4] 15:12:33:  ShowStatusInfo: 'Run started with TBoxRunTaskExecutor'
+[4] 15:12:33:  ShowStatusInfo: 'Verifying required licenses ...'
+[4] 15:12:34:  ShowStatusInfo: 'Execution Running ...'
+[4] 15:13:43:  ShowStatusInfo: 'Processing execution results ...'
+[3] 15:13:43: AgentResults count: 1
+[3] 15:13:44: executionResponses count: 1
+[3] 15:13:45: Task 'Run' finished
+[3] 15:13:45: Command: run//save result
+ save
+[3] 15:13:45:  Save started!
+[3] 15:13:46:  Save finished!
+[3] 15:13:46: Command: Task
+[3] 15:13:46: Task 'Print Report ... ExecutionEntries with ActualLog' started!
+[4] 15:13:46:  ShowStatusInfo: 'Print Report ... ExecutionEntries with ActualLog'
+[3] 15:13:46: Resolved assembly 'CrystalDecisions.ReportAppServer.ClientDoc, Version=12.0.1100.0, Culture=neutral, PublicKeyToken=692fbea5521e1304' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\CrystalReports\CrystalDecisions.ReportAppServer.ClientDoc.dll'
+[3] 15:13:46: Resolved assembly 'CrystalDecisions.ReportAppServer.DataDefModel, Version=12.0.1100.0, Culture=neutral, PublicKeyToken=692fbea5521e1304' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\CrystalReports\CrystalDecisions.ReportAppServer.DataDefModel.dll'
+[3] 15:13:46: Search started on 1 objects for query '->SELF:ExecutionList'
+[3] 15:13:46: Searcher found 0 results in 0 ms
+[3] 15:13:46: Search started on 'NetmedsExecution' for query '->SELF:ExecutionList'
+[3] 15:13:46: Searcher found 1 results in 1.0247 ms
+[3] 15:13:46: Search started on 'NetmedsExecution' for query '=>SUBPARTS:ExecutionEntry'
+[3] 15:13:46: Searcher found 1 results in 0 ms
+[3] 15:13:46: Search started on 'NetmedsSelectProduct' for query '->ParentFolder:ExecutionEntryFolder'
+[3] 15:13:46: Searcher found 0 results in 0 ms
+[3] 15:13:46: Search started on 'NetmedsSelectProduct' for query '->ActualLog:ExecutionTestCaseLog'
+[3] 15:13:46: Searcher found 1 results in 0.9395 ms
+[3] 15:13:46: Search started on 'NetmedsSelectProduct' for query '->TestCase:TestCase'
+[3] 15:13:46: Searcher found 1 results in 0 ms
+[3] 15:13:46: Search started on 'NetmedsExecution' for query '->ActualExecutionLog:ExecutionLog'
+[3] 15:13:46: Searcher found 1 results in 0 ms
+[3] 15:13:48: Task 'Print Report ... ExecutionEntries with ActualLog' finished
+[3] 15:13:48: Command: "Print Report ...ExecutionEntries with ActualLog" E:\\ToscaWorkspace\\NetmedsProject\\Tosca_Netmeds\\Reports\\ToscaReport.pdf//save result
+ save
+[3] 15:13:48: Command: exit
+[4] 15:13:48: Current = 'DemoProject'
+[3] 15:13:48: Closing Workspace!
+[3] 15:13:48: Log closed!

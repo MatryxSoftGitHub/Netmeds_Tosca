@@ -1,0 +1,160 @@
+[3] 12:40:04: Log started for 'E:\ToscaWorkspace\NetmedsProject\Tosca_Netmeds\NetmedsProject.tws'
+[3] 12:40:04: Log level: 4
+[3] 12:40:04: Release: 13.2.0.33211
+[3] 12:40:06: No service discovery configured.
+[3] 12:40:06:  + DistributedExecutionAddIn: DistributedExecutionAddIn 13.2.0.446 (32638)
+[3] 12:40:06:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 13.2.0.446 (32900)
+[3] 12:40:06:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 13.2.0.446 (32900)
+[3] 12:40:06:  + IntegrationManagementAddIn: IntegrationManagementAddIn 13.2.0.446 (32638)
+    - : QTestIntegration 13.2.1.18 (18)
+    + : SAPSolutionManagerIntegration 13.2.1.18 (18)
+[3] 12:40:06: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 12:40:06: Searcher found 0 results in 119.9992 ms
+[3] 12:40:06:  + OptIntAddIn: OptIntAddIn 13.2.0.446 (32900)
+[3] 12:40:06:  + QTestIntegrationAddIn: QTestIntegrationAddIn 13.2.0.446 (32999)
+[3] 12:40:06:  + RemoteControl: RemoteControlAddIn 13.2.0.446 (32900)
+[3] 12:40:06:  + Reporting: ReportingAddIn 13.2.0.446 (32638)
+[3] 12:40:06:  + ReportingUI: ReportingUIAddIn 13.2.0.446 (32900)
+[3] 12:40:06:  + RequirementsManagementAddIn: RequirementsManagement 13.2.0.446 (32638)
+[3] 12:40:06:  + RequirementsManagementUIAddIn: RequirementsManagementUI 13.2.0.446 (32900)
+[3] 12:40:06:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 13.2.0.446 (32900)
+[3] 12:40:06:  + TestCaseDesign: TestCaseDesign 13.2.0.446 (32891)
+[3] 12:40:06:  + ControlFlowDiagram: TestCaseVisualizationAddIn 13.2.0.446 (32900)
+[3] 12:40:06:  + XDefinitions: XDefinitions 13.2.0.446 (32648)
+[3] 12:40:06:  + XDefinitionsUI: XDefinitionsUI 13.2.0.446 (32900)
+[3] 12:40:06: Opened from Workspace File 'E:\ToscaWorkspace\NetmedsProject\Tosca_Netmeds\NetmedsProject.tws'
+[3] 12:40:06: Trying to authenticate ldap user msadmin against workspace
+[3] 12:40:07: Failed to authenticate ldap user against workspace
+[4] 12:40:08:  ShowStatusInfo: 'Ready'
+[3] 12:40:09: Workspace.Login for 'Admin'succeeded
+[4] 12:40:09:  ShowStatusInfo: 'Refresh all finished'
+[3] 12:40:09: OpenWorkspace took 00:00:05.4969195 to finish
+[4] 12:40:10:  ShowStatusInfo: 'Ready'
+[4] 12:40:14:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:40:14:  ShowStatusInfo: 'Ready'
+[4] 12:40:14:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh navigation view 'NetmedsProject''
+[4] 12:40:14:  ShowStatusInfo: 'Ready'
+[4] 12:40:14:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:40:14:  ShowStatusInfo: 'Ready'
+[4] 12:40:14:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh detail view 'NetmedsProject''
+[4] 12:40:14:  ShowStatusInfo: 'Ready'
+[4] 12:40:14:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:40:14:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:40:14:  ShowStatusInfo: 'Ready'
+[4] 12:40:14:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh navigation view 'NetmedsProject''
+[4] 12:40:14:  ShowStatusInfo: 'Ready'
+[4] 12:40:14:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:40:14:  ShowStatusInfo: 'Ready'
+[4] 12:40:14:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh detail view 'NetmedsProject''
+[4] 12:40:14:  ShowStatusInfo: 'Ready'
+[4] 12:40:14:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:40:14:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:40:19:  ShowStatusInfo: 'Ready'
+[4] 12:40:22:  ShowStatusInfo: '1 object selected'
+[4] 12:40:22:  ShowStatusInfo: 'Ready'
+[3] 12:40:26: Task 'Connect to GitHub Repository' started on ''
+[4] 12:40:26:  ShowStatusInfo: 'Connect to GitHub Repository'
+[4] 12:40:31:  ShowStatusInfo: 'Ready'
+[4] 12:41:06:  ShowStatusInfo: 'Checking connection data...'
+[4] 12:41:07:  ShowStatusInfo: 'Retrieving branches from repository...'
+[4] 12:41:07:  ShowStatusInfo: 'Ready'
+[4] 12:41:09:  ShowStatusInfo: 'Connect to GitHub Repository finalizing ... '
+[4] 12:41:09:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:41:09:  ShowStatusInfo: 'Ready'
+[4] 12:41:09:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:41:09:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:41:09:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:41:09:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:41:09:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:41:09:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:41:09:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:41:09:  ShowStatusInfo: 'Refresh navigation view 'NetmedsProject''
+[4] 12:41:09:  ShowStatusInfo: 'Ready'
+[4] 12:41:09:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:41:09:  ShowStatusInfo: 'Ready'
+[4] 12:41:09:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:41:09:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:41:09:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:41:09:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:41:09:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:41:09:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:41:09:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:41:09:  ShowStatusInfo: 'Refresh detail view 'NetmedsProject''
+[4] 12:41:09:  ShowStatusInfo: 'Ready'
+[4] 12:41:09:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:41:09:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:41:09:  ShowStatusInfo: 'Connect to GitHub Repository finished'
+[3] 12:41:09: Task 'Connect to GitHub Repository' finished
+[4] 12:41:14:  ShowStatusInfo: 'Ready'
+[4] 12:41:19:  ShowStatusInfo: 'Checkin all: Connecting to Common Repository (timeout in 10 seconds) ... '
+[4] 12:41:19:  ShowStatusInfo: 'Checkin all: Connecting to Common Repository succeeded'
+[3] 12:41:19: QTestIntegrationAddIn beginning to Export to QTest
+[3] 12:41:19: LinkTcToQTestService grouping testcases by same endpoint
+[3] 12:41:19: QTestIntegrationAddIn finished exporting objects to QTest
+[4] 12:41:19:  ShowStatusInfo: 'Connecting to GitHub repository...'
+[3] 12:41:30: ObjectVersioning is enabled
+[3] 12:41:30: ObjectVersioning: Start collecting deleted objects
+[3] 12:41:30: ObjectVersioning: Finished collecting deleted objects
+[3] 12:41:30: ObjectVersioning: Begin creating changeset for 333 clusters.
+[3] 12:41:30: ObjectVersioning: Finished creating changeset.
+[4] 12:41:30:  ShowStatusInfo: 'Checkin... (find changed objects)'
+[4] 12:41:30:  ShowStatusInfo: 'BeforeTeamTaskCommit'
+[4] 12:41:31:  ShowStatusInfo: 'Ready'
+[4] 12:41:31:  ShowStatusInfo: 'Checkin all finalizing ... '
+[4] 12:41:31:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:41:31:  ShowStatusInfo: 'Ready'
+[4] 12:41:31:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:41:31:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:41:31:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:41:31:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:41:31:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:41:31:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:41:31:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:41:31:  ShowStatusInfo: 'Refresh navigation view 'NetmedsProject''
+[4] 12:41:31:  ShowStatusInfo: 'Ready'
+[4] 12:41:31:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:41:31:  ShowStatusInfo: 'Ready'
+[4] 12:41:31:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:41:31:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:41:32:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:41:32:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:41:32:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:41:32:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:41:32:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:41:32:  ShowStatusInfo: 'Refresh detail view 'NetmedsProject''
+[4] 12:41:32:  ShowStatusInfo: 'Ready'
+[4] 12:41:32:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:41:32:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:41:32:  ShowStatusInfo: 'Checkin all finished'
+[3] 12:41:32: Task 'Checkin all' finished
+[4] 12:41:37:  ShowStatusInfo: 'Ready'

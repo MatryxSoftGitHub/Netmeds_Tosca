@@ -1,0 +1,93 @@
+[3] 17:51:44: Log started for 'E:\ToscaWorkspace\NetmedsProject\Tosca_Netmeds\NetmedsProject.tws'
+[3] 17:51:44: Log level: 4
+[3] 17:51:44: Release: 13.2.0.32638
+[3] 17:51:44: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 17:51:46: No service discovery configured.
+[3] 17:51:46:  + DistributedExecutionAddIn: DistributedExecutionAddIn 13.2.0.446 (32638)
+[3] 17:51:46:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 13.2.0.446 (32900)
+[3] 17:51:46:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 13.2.0.446 (32900)
+[3] 17:51:47:  + IntegrationManagementAddIn: IntegrationManagementAddIn 13.2.0.446 (32638)
+    - : QTestIntegration 13.2.1.18 (18)
+    + : SAPSolutionManagerIntegration 13.2.1.18 (18)
+[3] 17:51:47: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 17:51:47: Searcher found 0 results in 100.0024 ms
+[3] 17:51:47:  + OptIntAddIn: OptIntAddIn 13.2.0.446 (32900)
+[3] 17:51:47:  + QTestIntegrationAddIn: QTestIntegrationAddIn 13.2.0.446 (32999)
+[3] 17:51:47:  + RemoteControl: RemoteControlAddIn 13.2.0.446 (32900)
+[3] 17:51:47:  + Reporting: ReportingAddIn 13.2.0.446 (32638)
+[3] 17:51:47:  + ReportingUI: ReportingUIAddIn 13.2.0.446 (32900)
+[3] 17:51:47:  + RequirementsManagementAddIn: RequirementsManagement 13.2.0.446 (32638)
+[3] 17:51:47:  + RequirementsManagementUIAddIn: RequirementsManagementUI 13.2.0.446 (32900)
+[3] 17:51:47:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 13.2.0.446 (32900)
+[3] 17:51:47:  + TestCaseDesign: TestCaseDesign 13.2.0.446 (32891)
+[3] 17:51:47:  + ControlFlowDiagram: TestCaseVisualizationAddIn 13.2.0.446 (32900)
+[3] 17:51:47:  + XDefinitions: XDefinitions 13.2.0.446 (32648)
+[3] 17:51:47:  + XDefinitionsUI: XDefinitionsUI 13.2.0.446 (32900)
+[3] 17:51:47: Workspace.Login for 'Admin'succeeded
+[3] 17:51:47: TCShell started (13.2.0.32638)
+[4] 17:51:47: Current = 'DemoProject'
+[3] 17:51:47: Command: //navigate to an ExecutionList
+ jumptonode
+[4] 17:51:47: Current = 'NetmedsExecution'
+[3] 17:51:47: Command: /Execution/NetmedsExecutionLists/NetmedsExecution//check out Execution List
+ task
+[3] 17:51:48: Command: checkout//reset Actual log
+ task
+[3] 17:51:48: Task 'Clear Log' started!
+[3] 17:51:48: Command: "clear log"//start Execution list
+ task
+[3] 17:51:48: Task 'Run' started!
+[4] 17:51:48:  ShowStatusInfo: 'Run started with TBoxRunTaskExecutor'
+[4] 17:51:48:  ShowStatusInfo: 'Verifying required licenses ...'
+[4] 17:51:50:  ShowStatusInfo: 'Execution Running ...'
+[4] 17:53:03:  ShowStatusInfo: 'Processing execution results ...'
+[3] 17:53:03: AgentResults count: 1
+[3] 17:53:05: executionResponses count: 1
+[3] 17:53:06: Task 'Run' finished
+[3] 17:53:06: Command: run//save result
+ save
+[3] 17:53:06:  Save started!
+[3] 17:53:07:  Save finished!
+[3] 17:53:07: Command: Task
+[3] 17:53:07: Task 'Print Report ... ExecutionEntries with ActualLog' started!
+[4] 17:53:07:  ShowStatusInfo: 'Print Report ... ExecutionEntries with ActualLog'
+[3] 17:53:07: Resolved assembly 'CrystalDecisions.ReportAppServer.ClientDoc, Version=12.0.1100.0, Culture=neutral, PublicKeyToken=692fbea5521e1304' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\CrystalReports\CrystalDecisions.ReportAppServer.ClientDoc.dll'
+[3] 17:53:07: Resolved assembly 'CrystalDecisions.ReportAppServer.DataDefModel, Version=12.0.1100.0, Culture=neutral, PublicKeyToken=692fbea5521e1304' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\CrystalReports\CrystalDecisions.ReportAppServer.DataDefModel.dll'
+[3] 17:53:07: Search started on 1 objects for query '->SELF:ExecutionList'
+[3] 17:53:07: Searcher found 1 results in 0 ms
+[3] 17:53:07: Search started on 1 objects for query '=>SUBPARTS:ExecutionEntry'
+[3] 17:53:07: Searcher found 1 results in 0.9998 ms
+[3] 17:53:07: Search started on 1 objects for query '->ParentFolder:ExecutionEntryFolder'
+[3] 17:53:07: Searcher found 0 results in 0 ms
+[3] 17:53:07: Search started on 1 objects for query '->ActualLog:ExecutionTestCaseLog'
+[3] 17:53:07: Searcher found 1 results in 1.999 ms
+[3] 17:53:07: Search started on 1 objects for query '->TestCase:TestCase'
+[3] 17:53:07: Searcher found 1 results in 0 ms
+[3] 17:53:07: Search started on 1 objects for query '->ActualExecutionLog:ExecutionLog'
+[3] 17:53:07: Searcher found 1 results in 0 ms
+[3] 17:53:07: Search started on 'NetmedsExecution' for query '->SELF:ExecutionList'
+[3] 17:53:07: Searcher found 1 results in 0.9993 ms
+[3] 17:53:07: Search started on 'NetmedsExecution' for query '=>SUBPARTS:ExecutionEntry'
+[3] 17:53:07: Searcher found 1 results in 0 ms
+[3] 17:53:07: Search started on 'NetmedsSelectProduct' for query '->ParentFolder:ExecutionEntryFolder'
+[3] 17:53:07: Searcher found 0 results in 0 ms
+[3] 17:53:07: Search started on 'NetmedsSelectProduct' for query '->ActualLog:ExecutionTestCaseLog'
+[3] 17:53:07: Searcher found 1 results in 0 ms
+[3] 17:53:07: Search started on 'NetmedsSelectProduct' for query '->TestCase:TestCase'
+[3] 17:53:07: Searcher found 1 results in 0 ms
+[3] 17:53:07: Search started on 'NetmedsExecution' for query '->ActualExecutionLog:ExecutionLog'
+[3] 17:53:07: Searcher found 1 results in 0 ms
+[0] 17:53:08: [ExecutionEntries with ActualLog]
+An error occurred during export (e.g. no access rights to destination path, file to be exported already exists and is write-protected).
+[1] 17:53:08:  ShowErrorMessage: title='Reporting Error' message='[ExecutionEntries with ActualLog]
+An error occurred during export (e.g. no access rights to destination path, file to be exported already exists and is write-protected).'
+[3] 17:53:08:  ** ERROR: Reporting Error ** 
+[3] 17:53:08: [ExecutionEntries with ActualLog]
+An error occurred during export (e.g. no access rights to destination path, file to be exported already exists and is write-protected).
+[3] 17:53:08: Task 'Print Report ... ExecutionEntries with ActualLog' finished
+[3] 17:53:08: Command: "Print Report ...ExecutionEntries with ActualLog" E:\\ToscaWorkspace\\NetmedsProject\\Tosca_Netmeds\\Reports\\ToscaReport.pdf//save result
+ save
+[3] 17:53:08: Command: exit
+[4] 17:53:08: Current = 'DemoProject'
+[3] 17:53:08: Closing Workspace!
+[3] 17:53:08: Log closed!

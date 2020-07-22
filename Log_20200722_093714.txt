@@ -1,0 +1,175 @@
+[3] 09:37:14: Log started for 'E:\ToscaWorkspace\NetmedsProject\Tosca_Netmeds\NetmedsProject.tws'
+[3] 09:37:14: Log level: 4
+[3] 09:37:14: Release: 13.2.0.33211
+[3] 09:37:16: No service discovery configured.
+[3] 09:37:16:  + DistributedExecutionAddIn: DistributedExecutionAddIn 13.2.0.446 (32638)
+[3] 09:37:16:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 13.2.0.446 (32900)
+[3] 09:37:16:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 13.2.0.446 (32900)
+[3] 09:37:16:  + IntegrationManagementAddIn: IntegrationManagementAddIn 13.2.0.446 (32638)
+    - : QTestIntegration 13.2.1.18 (18)
+    + : SAPSolutionManagerIntegration 13.2.1.18 (18)
+[3] 09:37:16: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 09:37:17: Searcher found 0 results in 123.0132 ms
+[3] 09:37:17:  + OptIntAddIn: OptIntAddIn 13.2.0.446 (32900)
+[3] 09:37:17:  + QTestIntegrationAddIn: QTestIntegrationAddIn 13.2.0.446 (32999)
+[3] 09:37:17:  + RemoteControl: RemoteControlAddIn 13.2.0.446 (32900)
+[3] 09:37:17:  + Reporting: ReportingAddIn 13.2.0.446 (32638)
+[3] 09:37:17:  + ReportingUI: ReportingUIAddIn 13.2.0.446 (32900)
+[3] 09:37:17:  + RequirementsManagementAddIn: RequirementsManagement 13.2.0.446 (32638)
+[3] 09:37:17:  + RequirementsManagementUIAddIn: RequirementsManagementUI 13.2.0.446 (32900)
+[3] 09:37:17:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 13.2.0.446 (32900)
+[3] 09:37:17:  + TestCaseDesign: TestCaseDesign 13.2.0.446 (32891)
+[3] 09:37:17:  + ControlFlowDiagram: TestCaseVisualizationAddIn 13.2.0.446 (32900)
+[3] 09:37:17:  + XDefinitions: XDefinitions 13.2.0.446 (32648)
+[3] 09:37:17:  + XDefinitionsUI: XDefinitionsUI 13.2.0.446 (32900)
+[3] 09:37:17: Opened from Workspace File 'E:\ToscaWorkspace\NetmedsProject\Tosca_Netmeds\NetmedsProject.tws'
+[3] 09:37:17: Trying to authenticate ldap user msadmin against workspace
+[3] 09:37:17: Failed to authenticate ldap user against workspace
+[4] 09:37:18:  ShowStatusInfo: 'Ready'
+[3] 09:37:34: Workspace.Login for 'Admin'succeeded
+[4] 09:37:34:  ShowStatusInfo: 'Refresh all finished'
+[3] 09:37:35: OpenWorkspace took 00:00:20.5189987 to finish
+[4] 09:37:36:  ShowStatusInfo: 'Ready'
+[4] 09:37:39:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 09:37:40:  ShowStatusInfo: 'Ready'
+[4] 09:37:40:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 09:37:40:  ShowStatusInfo: 'Ready'
+[4] 09:37:40:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh all finished'
+[4] 09:37:40:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 09:37:40:  ShowStatusInfo: 'Ready'
+[4] 09:37:40:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 09:37:40:  ShowStatusInfo: 'Ready'
+[4] 09:37:40:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:37:40:  ShowStatusInfo: 'Refresh all finished'
+[4] 09:37:45:  ShowStatusInfo: 'Ready'
+[4] 09:37:59:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 09:37:59:  ShowStatusInfo: 'Ready'
+[4] 09:37:59:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 09:37:59:  ShowStatusInfo: 'Ready'
+[4] 09:37:59:  ShowStatusInfo: 'Refresh view finished'
+[4] 09:38:02:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 09:38:02:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 09:38:02:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 09:38:02:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 09:38:02:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 09:38:02:  ShowStatusInfo: 'Ready'
+[4] 09:38:02:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 09:38:02:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 09:38:02:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 09:38:02:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 09:38:02:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 09:38:02:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 09:38:02:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 09:38:02:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 09:38:02:  ShowStatusInfo: 'Ready'
+[4] 09:38:02:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 09:38:02:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 09:38:02:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 09:38:02:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:38:02:  ShowStatusInfo: 'Refresh all finished'
+[4] 09:38:03:  ShowStatusInfo: 'Checkout Tree: Connecting to Common Repository (timeout in 10 seconds) ... '
+[4] 09:38:03:  ShowStatusInfo: 'Checkout Tree: Connecting to Common Repository succeeded'
+[3] 09:38:03: Started update with local revision 21 against common revision 22 with deferred revisions ''
+[4] 09:38:04:  ShowStatusInfo: 'Checkout Tree: Connecting to Common Repository (timeout in 10 seconds) ... '
+[4] 09:38:04:  ShowStatusInfo: 'Checkout Tree: Connecting to Common Repository succeeded'
+[4] 09:38:04:  ShowStatusInfo: 'Checkout Tree: Collecting objects ... '
+[4] 09:38:04:  ShowStatusInfo: 'Checkout... (read source objects)'
+[4] 09:38:04:  ShowStatusInfo: 'BeforeTeamTaskCommit'
+[4] 09:38:05:  ShowStatusInfo: 'Ready'
+[4] 09:38:05:  ShowStatusInfo: 'Checkout Tree finalizing ... '
+[4] 09:38:05:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 09:38:05:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 09:38:05:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 09:38:05:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 09:38:05:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 09:38:05:  ShowStatusInfo: 'Ready'
+[4] 09:38:05:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 09:38:05:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 09:38:05:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 09:38:05:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 09:38:05:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 09:38:05:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 09:38:05:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 09:38:05:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 09:38:05:  ShowStatusInfo: 'Ready'
+[4] 09:38:05:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 09:38:05:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 09:38:05:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 09:38:05:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:38:05:  ShowStatusInfo: 'Refresh all finished'
+[4] 09:38:05:  ShowStatusInfo: 'Checkout Tree finished'
+[3] 09:38:05: Task 'Checkout Tree' finished
+[4] 09:38:10:  ShowStatusInfo: 'Ready'
+[4] 09:38:11:  ShowStatusInfo: '1 object selected'
+[4] 09:38:13:  ShowStatusInfo: 'Ready'
+[4] 09:38:13:  ShowStatusInfo: '1 object selected'
+[4] 09:38:18:  ShowStatusInfo: 'Ready'
+[4] 09:42:11:  ShowStatusInfo: 'Checkin all: Connecting to Common Repository (timeout in 10 seconds) ... '
+[4] 09:42:11:  ShowStatusInfo: 'Checkin all: Connecting to Common Repository succeeded'
+[3] 09:42:12: QTestIntegrationAddIn beginning to Export to QTest
+[3] 09:42:12: LinkTcToQTestService grouping testcases by same endpoint
+[3] 09:42:12: QTestIntegrationAddIn finished exporting objects to QTest
+[4] 09:42:25:  ShowStatusInfo: 'Connecting to GitHub repository...'
+[3] 09:42:35: ObjectVersioning is enabled
+[3] 09:42:35: ObjectVersioning: Start collecting deleted objects
+[3] 09:42:35: ObjectVersioning: Finished collecting deleted objects
+[3] 09:42:35: ObjectVersioning: Begin creating changeset for 17 clusters.
+[4] 09:42:35:  ShowStatusInfo: 'Creating changeset : 0 %'
+[3] 09:42:36: ObjectVersioning: Finished creating changeset.
+[4] 09:42:36:  ShowStatusInfo: 'BeforeTeamTaskCommit'
+[4] 09:42:37:  ShowStatusInfo: 'Ready'
+[4] 09:42:37:  ShowStatusInfo: 'Checkin all finalizing ... '
+[4] 09:42:37:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 09:42:37:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 09:42:37:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 09:42:37:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 09:42:37:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 09:42:37:  ShowStatusInfo: 'Ready'
+[4] 09:42:37:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 09:42:37:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 09:42:37:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 09:42:37:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 09:42:37:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 09:42:37:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 09:42:37:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 09:42:37:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 09:42:37:  ShowStatusInfo: 'Ready'
+[4] 09:42:37:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 09:42:37:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 09:42:37:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 09:42:37:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:42:37:  ShowStatusInfo: 'Refresh all finished'
+[4] 09:42:37:  ShowStatusInfo: 'Checkin all finished'
+[3] 09:42:37: Task 'Checkin all' finished
+[3] 09:42:37: Closing Workspace!
+[3] 09:42:38: Log closed!

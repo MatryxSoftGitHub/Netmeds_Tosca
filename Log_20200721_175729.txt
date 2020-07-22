@@ -1,0 +1,97 @@
+[3] 17:57:29: Log started for 'E:\ToscaWorkspace\NetmedsProject\Tosca_Netmeds\NetmedsProject.tws'
+[3] 17:57:29: Log level: 4
+[3] 17:57:29: Release: 13.2.0.33211
+[3] 17:57:32: No service discovery configured.
+[3] 17:57:32:  + DistributedExecutionAddIn: DistributedExecutionAddIn 13.2.0.446 (32638)
+[3] 17:57:32:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 13.2.0.446 (32900)
+[3] 17:57:32:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 13.2.0.446 (32900)
+[3] 17:57:32:  + IntegrationManagementAddIn: IntegrationManagementAddIn 13.2.0.446 (32638)
+    - : QTestIntegration 13.2.1.18 (18)
+    + : SAPSolutionManagerIntegration 13.2.1.18 (18)
+[3] 17:57:32: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 17:57:32: Searcher found 0 results in 125.002 ms
+[3] 17:57:32:  + OptIntAddIn: OptIntAddIn 13.2.0.446 (32900)
+[3] 17:57:32:  + QTestIntegrationAddIn: QTestIntegrationAddIn 13.2.0.446 (32999)
+[3] 17:57:32:  + RemoteControl: RemoteControlAddIn 13.2.0.446 (32900)
+[3] 17:57:32:  + Reporting: ReportingAddIn 13.2.0.446 (32638)
+[3] 17:57:32:  + ReportingUI: ReportingUIAddIn 13.2.0.446 (32900)
+[3] 17:57:32:  + RequirementsManagementAddIn: RequirementsManagement 13.2.0.446 (32638)
+[3] 17:57:32:  + RequirementsManagementUIAddIn: RequirementsManagementUI 13.2.0.446 (32900)
+[3] 17:57:32:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 13.2.0.446 (32900)
+[3] 17:57:32:  + TestCaseDesign: TestCaseDesign 13.2.0.446 (32891)
+[3] 17:57:32:  + ControlFlowDiagram: TestCaseVisualizationAddIn 13.2.0.446 (32900)
+[3] 17:57:32:  + XDefinitions: XDefinitions 13.2.0.446 (32648)
+[3] 17:57:32:  + XDefinitionsUI: XDefinitionsUI 13.2.0.446 (32900)
+[3] 17:57:32: Opened from Workspace File 'E:\ToscaWorkspace\NetmedsProject\Tosca_Netmeds\NetmedsProject.tws'
+[3] 17:57:32: Trying to authenticate ldap user msadmin against workspace
+[3] 17:57:33: Failed to authenticate ldap user against workspace
+[4] 17:57:34:  ShowStatusInfo: 'Ready'
+[3] 17:57:35: Workspace.Login for 'Admin'succeeded
+[4] 17:57:36:  ShowStatusInfo: 'Refresh all finished'
+[3] 17:57:36: OpenWorkspace took 00:00:06.8309481 to finish
+[4] 17:57:37:  ShowStatusInfo: 'Ready'
+[4] 17:57:41:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 17:57:41:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 17:57:41:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 17:57:42:  ShowStatusInfo: 'Ready'
+[4] 17:57:42:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 17:57:42:  ShowStatusInfo: 'Ready'
+[4] 17:57:42:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh all finished'
+[4] 17:57:42:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 17:57:42:  ShowStatusInfo: 'Ready'
+[4] 17:57:42:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 17:57:42:  ShowStatusInfo: 'Ready'
+[4] 17:57:42:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 17:57:42:  ShowStatusInfo: 'Refresh all finished'
+[4] 17:57:47:  ShowStatusInfo: 'Ready'
+[4] 17:58:22:  ShowStatusInfo: '1 object selected'
+[4] 17:58:24:  ShowStatusInfo: 'Ready'
+[4] 17:58:24:  ShowStatusInfo: '1 object selected'
+[4] 17:58:25:  ShowStatusInfo: 'Ready'
+[4] 17:58:25:  ShowStatusInfo: '1 object selected'
+[4] 17:58:26:  ShowStatusInfo: 'Ready'
+[4] 17:58:26:  ShowStatusInfo: '1 object selected'
+[4] 17:58:27:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 17:58:27:  ShowStatusInfo: 'Ready'
+[4] 17:58:27:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 17:58:27:  ShowStatusInfo: 'Ready'
+[4] 17:58:27:  ShowStatusInfo: 'Refresh view finished'
+[4] 17:58:29:  ShowStatusInfo: 'Ready'
+[4] 17:58:29:  ShowStatusInfo: '1 object selected'
+[4] 17:58:31:  ShowStatusInfo: 'Ready'
+[4] 17:58:31:  ShowStatusInfo: '1 object selected'
+[4] 17:58:32:  ShowStatusInfo: 'Ready'
+[4] 17:58:32:  ShowStatusInfo: '1 object selected'
+[4] 17:58:37:  ShowStatusInfo: 'Ready'
+[4] 17:58:37:  ShowStatusInfo: '1 object selected'
+[4] 17:58:38:  ShowStatusInfo: 'Ready'
+[3] 17:58:46: Closing Workspace!
+[3] 17:58:46: Log closed!

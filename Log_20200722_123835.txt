@@ -1,0 +1,4 @@
+[3] 12:38:35: Log started for 'E:\ToscaWorkspace\NetmedsProject\Tosca_Netmeds\NetmedsProject.tws'
+[3] 12:38:35: Log level: 4
+[3] 12:38:35: Release: 13.2.0.33211
+[4] 12:38:35:  ShowStatusInfo: 'Ready'

@@ -1,0 +1,33 @@
+[3] 17:47:31: Log started for 'E:\ToscaWorkspace\NetmedsProject\Tosca_Netmeds\NetmedsProject.tws'
+[3] 17:47:31: Log level: 4
+[3] 17:47:31: Release: 13.2.0.32638
+[3] 17:47:32: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 17:47:34: No service discovery configured.
+[3] 17:47:34:  + DistributedExecutionAddIn: DistributedExecutionAddIn 13.2.0.446 (32638)
+[3] 17:47:34:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 13.2.0.446 (32900)
+[3] 17:47:34:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 13.2.0.446 (32900)
+[3] 17:47:34:  + IntegrationManagementAddIn: IntegrationManagementAddIn 13.2.0.446 (32638)
+    - : QTestIntegration 13.2.1.18 (18)
+    + : SAPSolutionManagerIntegration 13.2.1.18 (18)
+[3] 17:47:34: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 17:47:34: Searcher found 0 results in 123.0029 ms
+[3] 17:47:35:  + OptIntAddIn: OptIntAddIn 13.2.0.446 (32900)
+[3] 17:47:35:  + QTestIntegrationAddIn: QTestIntegrationAddIn 13.2.0.446 (32999)
+[3] 17:47:35:  + RemoteControl: RemoteControlAddIn 13.2.0.446 (32900)
+[3] 17:47:35:  + Reporting: ReportingAddIn 13.2.0.446 (32638)
+[3] 17:47:35:  + ReportingUI: ReportingUIAddIn 13.2.0.446 (32900)
+[3] 17:47:35:  + RequirementsManagementAddIn: RequirementsManagement 13.2.0.446 (32638)
+[3] 17:47:35:  + RequirementsManagementUIAddIn: RequirementsManagementUI 13.2.0.446 (32900)
+[3] 17:47:35:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 13.2.0.446 (32900)
+[3] 17:47:35:  + TestCaseDesign: TestCaseDesign 13.2.0.446 (32891)
+[3] 17:47:35:  + ControlFlowDiagram: TestCaseVisualizationAddIn 13.2.0.446 (32900)
+[3] 17:47:35:  + XDefinitions: XDefinitions 13.2.0.446 (32648)
+[3] 17:47:35:  + XDefinitionsUI: XDefinitionsUI 13.2.0.446 (32900)
+[3] 17:47:35: Workspace.Login for 'Admin'succeeded
+[3] 17:47:35: TCShell started (13.2.0.32638)
+[4] 17:47:35: Current = 'DemoProject'
+[3] 17:47:35: Command: //navigate to an ExecutionList
+ jumptonode
+[4] 17:47:35: Current = 'DemoProject'
+[3] 17:47:35: Closing Workspace!
+[3] 17:47:35: Log closed!
